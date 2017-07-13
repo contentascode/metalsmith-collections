@@ -1,3 +1,5 @@
+**Note that this is the [tip of an unmerged PR](https://github.com/spark/metalsmith-collections/pull/1) of `metalsmith-collections` from a fork which itself was based on [a fork](jlamontagne/metalsmith-collections) and that I republished on npm with the `metalsmith-dynamic-collections` name**.
+
 # metalsmith-collections
 
 A [Metalsmith](https://github.com/segmentio/metalsmith) plugin that lets you group files together into an ordered collection, like blog posts. That way you can loop over them to generate an index, or add 'next' and 'previous' links between them.
