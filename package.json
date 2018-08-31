@@ -6,14 +6,14 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
-    "debug": "~0.7.4",
+    "debug": "^3.1.0",
     "extend": "~1.2.1",
-    "minimatch": "^0.2.14",
-    "uniq": "0.0.2",
-    "read-metadata": "0.0.2"
+    "minimatch": "^3.0.4",
+    "read-metadata": "0.0.2",
+    "uniq": "0.0.2"
   },
   "devDependencies": {
     "metalsmith": "0.x",
-    "mocha": "1.x"
+    "mocha": "^5.2.0"
   }
 }
